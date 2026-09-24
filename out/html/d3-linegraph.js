@@ -19,7 +19,7 @@ d3.linegraph = function(noTicks, noDots, parties, partyColors, partyNames, dataM
         parties = ['zent.', 'atph', 'uhk', 'psh', 'bhm', 'nhvap', 'dus', 'nfp'];
     }
     if (!partyColors) {
-        partyColors = {'zent.': '#00', 'atph': '#260404', 'uhk': '#d4c437', 'psh': '#cc1f36', 'bhm': '#102652', 'nhvap': '#300b4f', 'dus': '#9c9c9c', 'nfp': '#218a36'};
+        partyColors = {'zent.': '#000', 'atph': '#260404', 'uhk': '#d4c437', 'psh': '#cc1f36', 'bhm': '#102652', 'nhvap': '#300b4f', 'dus': '#9c9c9c', 'nfp': '#218a36'};
     }
     if (!partyNames) {
         partyNames = {'Zent.': 'Zent.', 'atph': 'ATPH', 'uhk': 'UHK', 'psh': 'PSH', 'bhm': 'BHM', 'nhvap': 'NHVAP', 'dus': 'DUS', 'nfp': 'NFP'};
