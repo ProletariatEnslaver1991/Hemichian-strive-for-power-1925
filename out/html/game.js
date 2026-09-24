@@ -16,10 +16,10 @@
     // Add your custom code here.
   };
 
-  var TITLE = "Social Democracy: An Alternate History" + '_' + "Autumn Chen";
+  var TITLE = "Hemichian strive for power: 1925" + '_' + "ProletariatEnslaver1991";
 
   // the url is a link to game.json
-  // test url: https://aucchen.github.io/social_democracy_mods/v0.1.json
+  // test url: https://github.com/ProletariatEnslaver1991/social_democracy_alternate_history
   // TODO; 
   window.loadMod = function(url) {
       ui.loadGame(url);
